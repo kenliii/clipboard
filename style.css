@@ -8,6 +8,7 @@
 
 body {
     font-family: 'Bai Jamjuree', sans-serif;
+    text-align: center;
 }
 
 img {
@@ -18,3 +19,11 @@ ul {
     list-style-type: none;  
 }
   
+h1, h2, h3 {
+    color: hsl(210, 10%, 33%);
+}
+
+p {
+    line-height: 2;
+    color: hsl(201, 11%, 66%);
+}
