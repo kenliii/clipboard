@@ -55,3 +55,17 @@ button {
     box-shadow: 4px 4px 10px hsl(233, 100%, 69%, 0.4);
     cursor: pointer;
 }
+
+.picture {
+    position: absolute;
+    width: 100%;
+}
+
+picture img {
+    width: 100%;
+}
+
+.showcase {
+    padding: 8rem 1.5rem;
+    text-align: center;
+}
