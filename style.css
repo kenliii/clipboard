@@ -27,3 +27,31 @@ p {
     line-height: 2;
     color: hsl(201, 11%, 66%);
 }
+
+button {
+    font-size: 16px;
+}
+
+.btn-green {
+    background-color: hsl(171, 66%, 44%);
+    color: #fff;
+    padding: 0.8rem 2rem;
+    border-radius: 30px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    box-shadow: 4px 4px 10px hsl(171, 66%, 44%, 0.4);
+    cursor: pointer;
+}
+
+.btn-blue {
+    background-color: hsl(233, 100%, 69%);
+    color: #fff;
+    padding: 0.8rem 2rem;
+    border-radius: 30px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+    box-shadow: 4px 4px 10px hsl(233, 100%, 69%, 0.4);
+    cursor: pointer;
+}
